@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Sales Order Date Order Visible and Editable',
-    'version': '13.0.1.0',
+    'version': '13.0.1',
     'category': 'sale',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
