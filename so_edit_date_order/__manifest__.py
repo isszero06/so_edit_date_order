@@ -46,4 +46,5 @@
     'application': False,
     'price': 25.0,
     'currency': 'USD',
+    "pre_init_hook": "pre_init_check",
 }
