@@ -2,7 +2,7 @@
 {
     'name': 'Sales Order Date Order Visible and Editable',
     'version': '15.0.1',
-    'category': 'sale',
+    'category': 'Sales',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
     "website": "https://www.erpzero.com",
