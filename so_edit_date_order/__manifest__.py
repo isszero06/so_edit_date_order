@@ -40,11 +40,11 @@
     ],
     'license': 'OPL-1',
     'live_test_url': 'https://www.youtube.com/watch?v=T82sTeIwrm8',
-    'images': ['static/description/logo.PNG'],
+    'images': ['static/description/sales_order_edit_date.png'],
     'installable': True,
     'auto_install': False,
     'application': False,
-    'price': 10.0,
+    'price': 15.0,
     'currency': 'EUR',
     "pre_init_hook": "pre_init_check",
 }
