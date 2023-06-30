@@ -39,7 +39,7 @@
         'views/sale_order.xml',
     ],
     'license': 'OPL-1',
-    'live_test_url': 'https://www.youtube.com/watch?v=T82sTeIwrm8',
+    'live_test_url': 'https://youtu.be/T82sTeIwrm8',
     'images': ['static/description/sales_order_edit_date.png'],
     'installable': True,
     'auto_install': False,
