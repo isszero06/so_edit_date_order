@@ -10,7 +10,7 @@
 #################################################################################
 {
     'name': 'Sales Order Date Order Visible and Editable',
-    'version': '14.0.1',
+    'version': '14.0.2',
     'category': 'Sales',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
