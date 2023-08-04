@@ -16,7 +16,6 @@ from odoo.exceptions import AccessError, UserError, ValidationError
 
 class SaleOrder(models.Model):
     _inherit = "sale.order"
-    _description = "Sales Order Edit order date"
 
 
     def action_confirm(self):
