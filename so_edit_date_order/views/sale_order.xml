@@ -4,7 +4,7 @@
     <field name="active" eval="True"/>
     <field name="arch" type="xml">
       <data><xpath expr="//form[1]/sheet[1]/group[1]/group[2]/field[@name='date_order']" position="replace">
-          <field name="date_order" attrs="{'invisible': [('state', 'in', ['sale', 'done', 'cancel'])]}"/>
+          <field name="date_order" invisible=" [('state', 'in', ['sale', 'done', 'cancel'])]"/>
         </xpath>
       </data>
     </field>
