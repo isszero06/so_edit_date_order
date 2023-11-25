@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Sales Order Date Order Visible and Editable',
-    'version': '16.0.2',
+    'version': '6.0.2',
     'category': 'Sales',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
@@ -37,5 +37,4 @@
     'application': False,
     'price': 00.0,
     'currency': 'EUR',
-    "pre_init_hook": "pre_init_check",
 }
