@@ -37,5 +37,4 @@
     'application': False,
     'price': 00.0,
     'currency': 'EUR',
-    "pre_init_hook": "pre_init_check",
 }
