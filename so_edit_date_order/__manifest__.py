@@ -36,7 +36,6 @@
         'sale_management',
     ],
     'data': [
-        'views/sale_order.xml',
     ],
     'license': 'OPL-1',
     'live_test_url': 'https://youtu.be/T82sTeIwrm8',
